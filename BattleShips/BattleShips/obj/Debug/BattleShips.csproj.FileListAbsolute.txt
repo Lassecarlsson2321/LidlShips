@@ -1,0 +1,7 @@
+C:\Users\Carls\OneDrive\Skrivebord\Skole\Real\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+C:\Users\Carls\OneDrive\Skrivebord\Skole\Real\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+C:\Users\Carls\OneDrive\Skrivebord\Skole\Real\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+C:\Users\Carls\OneDrive\Skrivebord\Skole\Real\BattleShips\BattleShips\obj\Debug\BattleShips.csprojAssemblyReference.cache
+C:\Users\Carls\OneDrive\Skrivebord\Skole\Real\BattleShips\BattleShips\obj\Debug\BattleShips.csproj.CoreCompileInputs.cache
+C:\Users\Carls\OneDrive\Skrivebord\Skole\Real\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+C:\Users\Carls\OneDrive\Skrivebord\Skole\Real\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
